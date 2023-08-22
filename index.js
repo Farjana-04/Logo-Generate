@@ -62,7 +62,7 @@ function askQuestion(){
     })
 }
 function writeToFile(shapeName,template){
-    // Write the 'template' content to the './output/README.md' file   
+  // Write the 'template' content to the file specified 
     fs.writeFile(`./examples/${shapeName}.svg`, template, (err) => {  
      if (err) throw err; // If there's an error, throw it
           
