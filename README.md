@@ -24,7 +24,7 @@ No contributes
 
 ## Tests
 [Jest
-https://jestjs.io/](https://www.npmjs.com/package/jest)https://www.npmjs.com/package/jest
+https://jestjs.io/](https://www.npmjs.com/package/jest)
 
 
 
