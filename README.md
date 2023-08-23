@@ -23,8 +23,8 @@ Follow the examples on my repo.
 No contributes
 
 ## Tests
-Jest
-https://jestjs.io/
+[Jest
+https://jestjs.io/](https://www.npmjs.com/package/jest)https://www.npmjs.com/package/jest
 
 
 
