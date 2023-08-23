@@ -1,4 +1,4 @@
-<svg height="300" width="300">
-    <polygon points="150,0 300,300 0,300" fill="blue" />
-    <text x="0" y="150" font-size="5rem" font-weight="bold" fill="red">Triangle</text>
+<svg version="1.1" height="300" width="300"  xmlns="http://www.w3.org/2000/svg">
+    <polygon height="100%" width="100%" points="0,200 300,200 150,0" fill="green" />
+    <text x="150" y="125" font-size="60" text-anchor="middle" font-weight="bold" fill="white">Svg</text>
     </svg>
