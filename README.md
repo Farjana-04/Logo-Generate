@@ -3,6 +3,7 @@
 ## Description:
 This task is to build a Node.js command-line application that takes in user input to generate a logo and save it as an SVG file.
 The application prompts the user to select a color and shape, provide text for the logo, and save the generated SVG to a .svg file.
+![ph](https://github.com/Farjana-04/Logo-Generate/assets/92415181/5fa86e93-b82b-4e7a-bd61-acdf52171af8)
 
 ## Table of Contents
 - [Installation](#installation)
